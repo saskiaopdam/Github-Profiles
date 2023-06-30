@@ -1,0 +1,32 @@
+.ProfileDisplay {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.ProfileDisplay-fullname {
+  margin-bottom: 0;
+}
+
+.ProfileDisplay-username {
+  margin-top: 0;
+  opacity: 0.5;
+  font-weight: normal;
+  font-size: 1.25em;
+}
+
+.ProfileDisplay-detail {
+  font-size: 0.9em;
+  opacity: 0.5;
+}
+
+.ProfileDisplay-list {
+  padding: 0;
+}
+
+.ProfileDisplay-avatar {
+  display: block;
+  height: 10rem;
+  border-radius: 50%;
+  margin: 0 auto;
+}

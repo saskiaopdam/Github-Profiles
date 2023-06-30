@@ -1,0 +1,67 @@
+.App {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.App-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.App-section {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.App-section-title {
+  font-size: 2rem;
+  text-align: center;
+}
+
+.App-footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+}
+
+.Switch-label {
+  margin-right: 0.5rem;
+}
+
+.Octocat-logo {
+  height: 5rem;
+}
+
+.dark-theme {
+  background-color: #282c34;
+  color: white;
+}
+
+.light-theme {
+  background-color: white;
+  color: #282c34;
+}
+
+.dark-theme a {
+  color: white;
+}
+
+.light-theme a {
+  color: #282c34;
+}
