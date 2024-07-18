@@ -1,5 +1,5 @@
 # Github Profiles
-*AND Digital intermediate JavaScript opdracht*
+*AND Digital React opdracht*
 
 ## Deploy
 
